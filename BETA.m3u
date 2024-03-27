@@ -1,0 +1,55 @@
+#EXTINF:-1,tvg-id="江西新闻" tvg-name="江西新闻" tvg-logo="https://epg.112114.xyz/logo/江西新闻.png" group-title="江西",江西新闻
+http://php.jdshipin.com:8880/iptv.php?id=jxxw
+#EXTINF:-1,tvg-id="江西都市" tvg-name="江西都市" tvg-logo="https://epg.112114.xyz/logo/江西都市.png" group-title="江西",江西都市
+http://php.jdshipin.com:8880/iptv.php?id=jxds
+#EXTINF:-1,tvg-id="江西经济生活" tvg-name="江西经济生活" tvg-logo="https://epg.112114.xyz/logo/江西经济生活.png" group-title="江西",江西经济生活
+http://php.jdshipin.com:8880/iptv.php?id=jxjjsh
+#EXTINF:-1,tvg-id="江西影视旅游" tvg-name="江西影视旅游" tvg-logo="https://epg.112114.xyz/logo/江西影视旅游.png" group-title="江西",江西影视旅游
+http://php.jdshipin.com:8880/iptv.php?id=jxysly
+#EXTINF:-1,tvg-id="江西公共农业" tvg-name="江西公共农业" tvg-logo="https://epg.112114.xyz/logo/江西公共农业.png" group-title="江西",江西公共农业
+http://php.jdshipin.com:8880/iptv.php?id=jxggny
+#EXTINF:-1,tvg-id="江西少儿" tvg-name="江西少儿" tvg-logo="https://epg.112114.xyz/logo/江西少儿.png" group-title="江西",江西少儿
+http://php.jdshipin.com:8880/iptv.php?id=jxse
+#EXTINF:-1,tvg-id="江西教育" tvg-name="江西教育" tvg-logo="https://epg.112114.xyz/logo/江西教育.png" group-title="江西",江西教育
+http://php.jdshipin.com:8880/iptv.php?id=jxjy
+
+#EXTINF:-1,tvg-id="江苏移动影视轮播" tvg-name="江苏移动影视轮播" tvg-logo="https://epg.112114.xyz/logo/江苏移动影视轮播.png" group-title="江苏",江苏移动影视轮播
+http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
+
+#EXTINF:-1,tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://epg.112114.xyz/logo/江苏影视.png" group-title="江苏",江苏影视
+http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221225937/index.m3u8
+#EXTINF:-1,tvg-id="江苏影视" tvg-name="江苏影视" tvg-logo="https://epg.112114.xyz/logo/江苏影视.png" group-title="江苏",江苏影视
+http://hlsbkmgsplive.miguvideo.com/wd_r2/jstv/jsyingshi/600/index.m3u8?&amp;encrypt=
+
+#EXTINF:-1,tvg-id="北京IPTV4K" tvg-name="北京IPTV4K" tvg-logo="https://epg.112114.xyz/logo/北京IPTV4K.png" group-title="北京",北京IPTV4K
+http://php.jdshipin.com:8880/iptv.php?id=bj4k
+#EXTINF:-1,tvg-id="广东4K超高清" tvg-name="广东4K超高清" tvg-logo="https://epg.112114.xyz/logo/广东4K.png" group-title="广东",广东4K超高清
+http://php.jdshipin.com:8880/iptv.php?id=gd4k
+#EXTINF:-1,tvg-id="广州南国都市4K" tvg-name="广州南国都市4K" tvg-logo="https://epg.112114.xyz/logo/广州南国都市4K.png" group-title="其他",广州南国都市4K
+http://php.jdshipin.com:8880/iptv.php?id=ngds4k
+#EXTINF:-1,tvg-id="绚影4K" tvg-name="绚影4K" tvg-logo="https://epg.112114.xyz/logo/绚影4K.png" group-title="其他",绚影4K
+http://php.jdshipin.com:8880/iptv.php?id=xy4k
+#EXTINF:-1,tvg-id="湖南IPTV4K" tvg-name="湖南IPTV4K" tvg-logo="https://epg.112114.xyz/logo/湖南IPTV4K.png" group-title="湖南",湖南IPTV4K
+http://php.jdshipin.com:8880/iptv.php?id=hn4k
+#EXTINF:-1,tvg-id="云南4K" tvg-name="云南4K" tvg-logo="https://epg.112114.xyz/logo/云南4K.png" group-title="云南",云南4K
+http://php.jdshipin.com:8880/iptv.php?id=yn4k
+#EXTINF:-1,tvg-id="百视通4K测试" tvg-name="百视通4K测试" tvg-logo="https://epg.112114.xyz/logo/百视通4K测试.png" group-title="其他",百视通4K测试
+http://php.jdshipin.com:8880/iptv.php?id=bst4k
+#EXTINF:-1,tvg-id="百视通4K儿童" tvg-name="百视通4K儿童" tvg-logo="https://epg.112114.xyz/logo/百视通4K儿童.png" group-title="其他",百视通4K儿童
+http://php.jdshipin.com:8880/iptv.php?id=bst4ket
+#EXTINF:-1,tvg-id="百视通4K电影" tvg-name="百视通4K电影" tvg-logo="https://epg.112114.xyz/logo/百视通4K电影.png" group-title="其他",百视通4K电影
+http://php.jdshipin.com:8880/iptv.php?id=bst4kdy
+#EXTINF:-1,tvg-id="百视通4K纪实" tvg-name="百视通4K纪实" tvg-logo="https://epg.112114.xyz/logo/百视通4K纪实.png" group-title="其他",百视通4K纪实
+http://php.jdshipin.com:8880/iptv.php?id=bst4kjs
+
+
+#EXTINF:-1 group-title="山西台" tvg-id="太原四套影视频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/ed022450acc4281b14490da1d24fd853.jpg",太原四套影视频道
+http://tytv-hls.cutv.com/J4EX72D/500/zauJxE0.m3u8
+#EXTINF:-1 group-title="山西台" tvg-id="太原一套新闻综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/95c48c6f78c65e30925baa02f5f8ba67.jpg",太原一套新闻综合频道
+http://tytv-hls.cutv.com/49VAfrw/500/59o4xV0.m3u8
+#EXTINF:-1 group-title="山西台" tvg-id="太原二套百姓频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/28a19cccc72860ad1f1d99a11e47a468.jpg",太原二套百姓频道
+http://tytv-hls.cutv.com/u8BmT6h/500/27ruxB0.m3u8
+#EXTINF:-1 group-title="山西台" tvg-id="太原三套法制频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/small02e7c0bdab0a37a8fbab428fe8f79b511477324449.jpg",太原三套法制频道
+http://tytv-hls.cutv.com/phsry3e/500/k39pxu0.m3u8
+#EXTINF:-1 group-title="山西台" tvg-id="太原五套文体频道" tvg-logo="http://tv.haoqu99.com/d/file/2016/1024/c63138be80542e8678848dcad81e20ec.jpg",太原五套文体频道
+http://tytv-hls.cutv.com/rk8Z088/500/k79rx80.m3u8
