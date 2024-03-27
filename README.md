@@ -8,7 +8,7 @@
 
 - 🈶几乎每个频道都有**完整**的预告[`个别除外`]
 
-🎈🎈建立了Q群，感兴趣的小伙伴欢迎加入交流 [群聊【5️⃣i計劃通行】](https://qm.qq.com/cgi-bin/qm/qr?authKey=HJxEyxDPHE64LrYtSuRWHUYzSJlDo8iT5SxeyTp5nwe5a2MT%2BPoPds17T9zzIRiN&k=nVRc3tVKGiO7lBH6Gf4NdwDmbiAjQEph&noverify=0)
+
 
 ## 📖说明
 所有播放源均收集于互联网🌐，仅供**测试研究使用**，不得**商用**。
@@ -24,15 +24,6 @@
 <img alt="GitHub" src="https://img.shields.io/github/license/5iClub/LIVE">
 </p>
 
-## 🏄‍♀️源地址
-
-|     📦 名称     |                         🔗直播源地址                         |   🅿状态   | 🆕更新时间  |
-| :-------------: | :----------------------------------------------------------: | :-------: | :--------: |
-| 📺IPTV(直播源) | [🌐订阅链接-IPV4/IPv6用]|🌕日常更新 | XXXXXX |
-| 📺IPTV(TVBOX专用) | [🌐订阅链接-TVBOX专用]|🌕日常更新 | XXXXXX |
-| 🧢TVBOX多仓(非直播源) | [🌐订阅链接-TVBOX专用]|🌕日常更新 | XXXXXX |
-
-<u>注：以上源请点击链接右键复制[PC]/或长按复制[移动设备]</u>
 
 ## 🛠️EPG
 
@@ -51,9 +42,3 @@
 
 📲**Android：**[Televizo](https://files.televizo.net/televizo-default.apk) [推荐✨`手机上体验不错、有广告、有内购`][M3UAndroid](https://github.com/realOxy/M3UAndroid)[开源✨`无广告、无内购`]
 
-## 💡致谢：
-- Logo来源：[https://github.com/wanglindl/TVlogo](https://github.com/wanglindl/TVlogo)[`特别感谢`]
-- [erc.cc](https://epg.erw.cc/)及[112114.eu.org](https://epg.112114.eu.org/pp.xml)提供的epg接口[`特别感谢`]
-- GitHub及互联网其他资源[`特别感谢`]
-
-<u>说明：本仓库部分内容引用或参考以上内容，在此表示感谢！！！🎈</u>
